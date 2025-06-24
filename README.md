@@ -1,14 +1,13 @@
-# Hi there, I’m R S Pavithra 👋
+# Hi there 👋, I'm R S Pavithra!
 
-💻 Passionate Developer | Problem Solver | Tech Enthusiast  
-📍 India | 🚀 Building cool things with code
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Lifelong+Learner+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **LeetCode 50-Day Streak**  
-- 🥇 **LeetCode 100-Day Streak**  
-*(You can add badges or images here if you have them as image links)*
+- 🥇 **LeetCode 50-Day Streak**
+- 🥇 **LeetCode 100-Day Streak**
+*(You can insert custom badge images or links here)*
 
 ---
 
@@ -28,6 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### Others
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,19 +38,27 @@
 
 ![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavithrars2004&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithrars2004&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithrars2004&layout=compact&theme=radical)
+
+---
+
+## 🏅 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Pavithrars2004&theme=radical&row=1&no-frame=true)
 
 ---
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/Pavithrars2004)
-- *(Add LinkedIn/Portfolio links here if you want)*
+- *(Add LinkedIn/Portfolio links here if you have them)*
 
 ---
 
 ## ✨ Fun Fact
-I love building, learning, and exploring new technologies every day 🚀  
-Let's connect and grow together!
+I love building, solving, and creating! Always exploring new technologies 🚀
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Pavithrars2004&color=blue)
