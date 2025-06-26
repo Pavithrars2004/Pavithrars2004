@@ -4,11 +4,33 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 **LeetCode 50-Day Streak**
-- 🥇 **LeetCode 100-Day Streak**
-- 🧠 **Built AI/ML-powered apps using Streamlit and Python**
-- 💻 **Open Source Contributor**
+## 🏆 Achievements & Engagements
+
+- 🥇 1st Place – **HackVerse Hackathon**, Anurag University  
+- 🥇 1st Place – **Visionova Hackathon 2025**  
+- 🥈 2nd Place – **IEEE CIS Coding Competition**  
+- 🥉 3rd Place – **Tejas 2k25 Engineering Project Expo**  
+- 🧑‍🏫 **Microsoft Learn Student Ambassador** (2024)  
+- 👩‍💻 **Campus Mantri** – GeeksForGeeks (2024–2025)  
+- 🛠️ Technical Core Team – **IEEE Club, Anurag University**  
+- 🧠 Organizer – **Smart Hacks 2024** (48-hour national hackathon by IEEE CIS)
+
+---
+
+## 📚 Publications
+
+- **📘 Predictive Modeling of Air Quality Using Machine Learning**  
+  *IEEE Conference*  
+  Developed a Random Forest model for PM2.5 forecasting with RMSE < 6. Enabled accurate air quality monitoring using large-scale public datasets.
+
+- **🧠 Multimodal Emotion-Aware Neural Networks for Early Mental Health Diagnosis**  
+  *Springer Journal*  
+  Designed CNN-LSTM models combining text and images. Achieved high ROC-AUC for mental health screening.
+
+- **🌊 Improving Early Flood Warnings with AI-Based Predictions**  
+  *IEEE EarthSense 2025 Conference*  
+  Built an AI system using remote sensing data for flood prediction. Selected for oral presentation in EarthSense 2025.
+
 
 ---
 
