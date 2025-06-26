@@ -51,7 +51,7 @@
 
 ![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavithrars2004&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithrars2004&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithrars2004&layout=compact&theme=radical)
 
