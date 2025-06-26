@@ -82,6 +82,17 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
+## 🧠 Competitive Programming
+
+- 🔸 [LeetCode Profile](https://leetcode.com/R_S_Pavithra/)  
+  🟡 200+ Problems Solved • 100-Day Streak • Focus on DSA, DP, Graphs
+
+- 🔹 [Codeforces Profile](https://codeforces.com/profile/R_S_Pavithra)  
+  🟣 Rated Participant • Regular in Contests • Special focus on Greedy & Graphs
+
+- 🧩 Platforms: Also active on GeeksForGeeks and HackerRank
+
+---
 
 ## 📊 GitHub Stats
 
